@@ -13,3 +13,5 @@ google-cloud-texttospeech
 mutagen
 ebooklib
 beautifulsoup4
+audioop-lts
+
